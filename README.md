@@ -6,7 +6,6 @@
 
 <div align="center">
   
-[![License][shield-repo-license]][repo-license] 
 [![GitHub Workflow Status][shield-repo-workflow]][repo-actions] 
 [![Downloads][shield-repo-releases]][repo-releases] 
 [![Version][shield-repo-latest]][repo-latest]
@@ -83,12 +82,11 @@ A: Gold includes more advanced controls, multi-instance support, better performa
 
 ---
 
-[shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
+
 [shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/bloxstraplabs/bloxstrap/ci-release.yml?branch=main&label=builds
 [shield-repo-releases]: https://img.shields.io/github/downloads/bloxstraplabs/bloxstrap/latest/total?color=981bfe
 [shield-repo-latest]:   https://img.shields.io/github/v/release/bloxstraplabs/bloxstrap?color=7a39fb
 
-[repo-license]: https://github.com/bloxstraplabs/bloxstrap/blob/main/LICENSE  
 [repo-actions]: https://github.com/bloxstraplabs/bloxstrap/actions  
 [repo-releases]: https://github.com/bloxstraplabs/bloxstrap/releases  
 [repo-latest]:   https://github.com/bloxstraplabs/bloxstrap/releases/latest
