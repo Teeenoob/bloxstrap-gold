@@ -28,10 +28,10 @@ It’s ideal for anyone who wants to push Roblox further than what the base clie
   Seamlessly run multiple local Roblox clients with account isolation — no hacks or patches needed.
 
 - **Fast Flag customization**  
-  Access internal Roblox fast flags to enable experimental features and tweak engine behavior.
+  Access all internal Roblox Fast Flags to enable experimental features and tweak engine behavior. Whitelisted Flags not enough? Gold is for you.
 
 - **Performance boosts**  
-  Lower latency, increase frame rates, and remove unnecessary overhead to make your client smoother.
+  Lower latency, increase frame rates, and remove unnecessary overhead to make your client run smoother.
 
 - **Privacy & security enhancements**  
   Reduce telemetry, lock down sessions, and limit unwanted data exposure.
@@ -72,7 +72,7 @@ A: No user reports of bans due to Bloxstrap Gold exist. It does not behave like 
 A: To prevent malicious forks, impersonation, and misuse. Open-sourcing would compromise the integrity and safety of the tool for everyone.
 
 **Q: Will the project ever be open source?**  
-A: Unlikely. The decision is intentional to ensure user safety and maintain control over distribution.
+A: No. Our contract with Roblox prohibits the publication of the source code.
 
 **Q: Can I request a feature or report a bug?**  
 A: Yes! Open an issue on this repository with clear details. Feedback helps shape future updates.
